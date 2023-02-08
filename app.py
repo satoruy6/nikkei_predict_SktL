@@ -5,7 +5,7 @@
 #全データの前半75%を訓練に使用、直近25%でテスト実施。
 import time
 
-from sklearn import svm
+from scikit-learn import svm
 from pandas_datareader import data as web
 import numpy as np
 import pandas as pd
