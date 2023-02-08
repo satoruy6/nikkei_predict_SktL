@@ -1,2 +1,2 @@
 streamlit==1.17.0
-sklearn==1.0.2
+sklearn
